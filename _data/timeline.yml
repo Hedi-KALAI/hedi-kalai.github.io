@@ -1,0 +1,37 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Master en Informatique CRYPTIS Sécurité de l&#39;information et cryptologie.
+  title-url: https://www.cryptis.fr/
+  date: 2022 - Présent
+  subtitle: Faculté des Sciences et Techniques, Université de Limoges
+  timeline-side: right
+
+
+- title: Licence en Informatique dans le cadre d&#39;une convention pour obtenir une double diplomation
+  title-url: https://www.sciences.unilim.fr/informatique/licence-informatique/
+  date: 2021 - 2022
+  subtitle: Faculté des Sciences et Techniques, Université de Limoges
+  timeline-side: left
+
+- title: Licence en Réseaux et Télécoms - Spécialité Sécurité des Réseaux.
+  title-url: https://www.isetcom.tn/
+  date: 2019 - 2022
+  subtitle: Institut supérieur des études technologiques en communications de Tunis
+  timeline-side: right

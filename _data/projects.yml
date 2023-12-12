@@ -1,0 +1,52 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Centre de Sécurité Opérationnel virtualisé (SOC)
+  descr: "Mise en œuvre d’une architecture de sécurité virtualisée pour protéger les ressources."
+  tags:
+    - tag: Metasploit
+    - tag: Openvas
+    - tag: Nessus
+    - tag: Splunk
+    - tag: OSSIM
+
+- name: Sécurité des protocoles sans fil
+  descr: "Étude des solutions de sécurité des communications sans fil en collaboration avec la société CISTEME (Centre d’Ingénierie des Systèmes en Télécommunications en ElectroMagnétisme et Electronique)."
+  tags:
+    - tag: Python
+    - tag: Scapy
+    - tag: Wireshark
+
+- name: Utilisation et vérification des certificats
+  descr: "Mise en œuvre d’un système de diffusion sécurisée d'attestations électroniques pour une société."
+  tags:
+    - tag: Python
+    - tag: Bottle
+    - tag: OpenSSL
+
+- name: Brute force WPA-PSK
+  descr: "Développement d’un outil permettant de réaliser une attaque par bruteforce pour trouver le mot de passe utilisé dans la protection d'un réseau Wi-Fi sécurisé par WPA-PSK."
+  tags:
+    - tag: Python
+    - tag: Scapy
+    - tag: Tcpdump
+    - tag: Wireshark
+
+- name: Proxy pour le Web
+  descr: "Mise en place d'un proxy visant à filtrer les communications vers des sites web."
+  tags:
+    - tag: Python
+    - tag: HTML
+    - tag: CSS

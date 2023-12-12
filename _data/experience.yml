@@ -1,0 +1,57 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Stage de développement web
+  title-url: https://www.medecine.unilim.fr/
+  date: Avril 2022 - Août 2022
+  subtitle: Faculté de médecine, Limoges, France
+  tags:
+    - tag: ReactJS
+    - tag: NodeJS
+    - tag: Javascript
+    - tag: MySQL
+    - tag: HTML
+  timeline-side: right
+
+- title: Stage de développement en C
+  title-url: www.sagemcom.com
+  date: Juin 2019 - Juillet 2019
+  subtitle: SAGEM&#39;COM
+  tags:
+    - tag: C
+    - tag: MySQL
+  timeline-side: right
+
+- title: Stage en réseaux et télécommunications
+  title-url: https://www.tunisietelecom.tn/
+  date: Janvier 2020 - Février 2020
+  subtitle: Tunisie Telecom
+  timeline-side: left
+
+- title: Job étudiant - Agent d&#39;accueil
+  title-url: www.crous-limoges.fr
+  date: Séptembre 2023 - Présent
+  subtitle: Crous de Limoges
+  timeline-side: right
+
+- title: Job étudiant - équipier polyvalent
+  title-url: https://www.mcdonalds.fr/
+  date: Juin 2022 - Séptembre 2023 
+  subtitle: McDonald&#39;s
+  timeline-side: left
